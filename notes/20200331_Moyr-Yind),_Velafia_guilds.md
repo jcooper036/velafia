@@ -1,5 +1,7 @@
 20200331
 """
+!Moyr-Yind),
+!Velafia
 !guilds
 """
 # The Guild system of Velafia
