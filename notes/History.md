@@ -1,30 +1,4 @@
-20200331
-"""
-!Agaza
-!Alailios,
-!Alarva,
-!Andelian
-!Arilir
-!Carelr
-!Chaturi
-!Cyrenacia,
-!Cyrenacian
-!Demographics
-!Galtus
-!Gorodol
-!Grundmond.
-!Harbeld,
-!Higar
-!Lahga
-!Ranos
-!Saratosa.
-!Takis
-!elves
-!history
-!kiol
-!kiol,
-"""
- # The general history of Velafia
+# The general history of Velafia
 
 The history of Velafia can be broken into four ages
 - Old Age (0 O.A. - 1263 O.A.) : The arrival of sentient beings to the continent. This age saw the construction of cities, but not proper states. This age ended with the century long rise and fall of the Galtian Empire.

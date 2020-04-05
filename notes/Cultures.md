@@ -1,8 +1,3 @@
-20200331
-"""
-!culture
-"""
-
 # The major cultures of old Velafia
 To understand the modern cultures of Velafia, it is important to understand the five major culture groups that pre-dated the Cataclysm. Though all people that come from the continent can be said to be "Velafian", there is no single culture that would call themselves that.
 

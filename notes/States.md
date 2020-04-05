@@ -1,14 +1,3 @@
-20200331
-"""
-!Dumar_Republic.
-!Dunmar_Republic
-!Guild_Council
-!Miyor_Yarind
-!Opinix
-!history
-!states
-"""
-
 # The State Structure of Old Velafia
 By the time of the Cataclysm, Old Velafia had transitioned from a system of city-states (identity based on localism) to one of nation states (identity based on cultural heritage / nationalism). During the Age of Isolation, the nations were splintered with the land, and what cities were not destroyed were isolated from one another. Once again, political and cultural identities reverted to that of a city.  
 

@@ -1,8 +1,3 @@
-20200331
-"""
-!races
-"""
-
 # The Races in Old Velafia
 
 # Races in modern Velafia

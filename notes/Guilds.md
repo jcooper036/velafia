@@ -1,9 +1,3 @@
-20200331
-"""
-!Moyr-Yind),
-!Velafia
-!guilds
-"""
 # The Guild system of Velafia
 Almost everything in modern Velafia revolves around the sea. Though powerful individuals have means of going place to place without sea travel, most goods and people take to the waves at some point in their existence. 
 
