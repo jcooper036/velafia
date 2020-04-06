@@ -1,5 +1,5 @@
 # The general history of Velafia  
-[images/Velafia_prestorm.png](images/Velafia_prestorm.png)
+![Velafia pre-Cataclysm](images/Velafia_prestorm.png)
 The history of Velafia can be broken into four ages
 - Old Age (0 O.A. - 1263 O.A.) : The arrival of sentient beings to the continent. This age saw the construction of cities, but not proper states. This age ended with the century long rise and fall of the Galtian Empire.
 
@@ -67,7 +67,7 @@ At the rise of the Galtian Empire in 1143 O.A., Velafia contained about:
 - 100,000 of other races
 
 ## The Flourishing before the Cataclysm (Age Before the Storm)
-[images/Velafia_prestorm_cultures.png]
+![Velafia pre-Cataclysm Cultures](images/Velafia_prestorm_cultures.png)
 ### !Demographics
 In A.B.S 541, right before the Cataclysm, the population of Velafia had about quadrupled since the end of the Old Age to be:
 - 9.3 million humans
