@@ -35,7 +35,7 @@ Since the reemergence, some cities have tried to unite long lost kin, some have 
 - Demographics : humans, more dwarves, halfings, and wood elves
 - Dominant Cultures : Galtan, Betular
 
-### Thadar
+### Thadar (Thad-dar)
 - Region : Caphelion
 - Government: Elected Monarchy
 - Capital : Physia
@@ -45,58 +45,66 @@ Since the reemergence, some cities have tried to unite long lost kin, some have 
 
 ## Regional powers
 
-###
-- Region : 
-- Government:
-- Capital : 
-- Population : 
-- Demographics :
-- Dominant Cultures :
+### Kyrene (Ky-reen)
+- Region : Xanros
+- Government: Elected Monarchy
+- Capital : Kyrene
+- Population : 750,000
+- Demographics : Tabaxi, humans, orcs, elves
+- Dominant Cultures : Cyrenacian
 
-###
-- Region : 
-- Government:
-- Capital : 
-- Population : 
-- Demographics :
-- Dominant Cultures :
+### Kalhi Pact (Khal-hi Pact)
+- Region : Xanros
+- Government: Representative Oligarchy
+- Capital : Mausele (Mau-se-ell)
+- Population : 680,000
+- Demographics : Mix
+- Dominant Cultures : Mix
 
-###
-- Region : 
-- Government:
-- Capital : 
-- Population : 
-- Demographics :
-- Dominant Cultures :
+### Zaduranaye (Za-dur-on-eye)
+- Region : Caphelion
+- Government : Monarchy
+- Capital : Zanadar
+- Population : 610,000
+- Demographics : Heavily tabaxi
+- Dominant Cultures : Cyrenacian
 
-###
-- Region : 
-- Government:
-- Capital : 
-- Population : 
-- Demographics :
-- Dominant Cultures :
+### North Sea Federation
+- Region : Endon
+- Government: Federation
+- Capital : Arorvia (Ar-or-via)
+- Population : 740,000
+- Demographics : Mixed
+- Dominant Cultures : Mixed
+
+### Saratosan Free People's Alliance
+- Region : Endon
+- Government: Democracy
+- Capital : Split between Adinil and Enxam (En-zahm)
+- Population : 740,000
+- Demographics : High Elves, Orcs, Humans, other mixes
+- Dominant Cultures : Mixed
 
 ## Local powers
 
-###
-- Region : 
-- Government:
-- Capital : 
+### Mazara
+- Region : Aleynes 
+- Government: 
+- Capital : Mazara
+- Population : 410,000
+- Demographics :
+- Dominant Cultures : Cyrenacian, Galtan
+
+### Gasha
+- Region : Pyrione
+- Government: 
+- Capital : Gasha
 - Population : 
 - Demographics :
 - Dominant Cultures :
 
-###
-- Region : 
-- Government:
-- Capital : 
-- Population : 
-- Demographics :
-- Dominant Cultures :
-
-###
-- Region : 
+### Shalar
+- Region : Catilean
 - Government:
 - Capital : 
 - Population : 
