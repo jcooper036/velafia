@@ -56,7 +56,7 @@ For Boval, the existence of the company has taken on a meaning of its own. It is
 
 # The setting
 
-![Ranos](images/Ranos.png)
+![Ranos](images/Ranos.PNG)
 
 ## The region
 
