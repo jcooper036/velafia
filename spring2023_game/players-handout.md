@@ -6,7 +6,7 @@ In this adventure, you play as a member of the Guard of the Greenwood, a mercena
 
 _Take only gold, leave only tracks_
 
-From their cave hideout in the Grandir Forest, the Army of the Greenwood operates as a mercenary company that polices the roads and the wildlands of central Ranos. Formed during the Six Cities War, the company has spent the last fifteen years of relative peace in the region
+From their cave hideout in the Grandir Forest, the Guard of the Greenwood operates as a mercenary company that polices the roads and the wildlands of central Ranos. Formed during the Six Cities War, the company has spent the last fifteen years of relative peace in the region ranging and collecting tolls on the Kaitech River trade route between Davenhold and Bontview.
 
 ## History
 
