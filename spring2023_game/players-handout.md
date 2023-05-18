@@ -1,6 +1,6 @@
 # Sometimes we are the bandits
 
-In this adventure, you play as a member of the Guard of the Greenwood, a mercenary company in southern Ranos. The company has been tasked by the city state of Davenhold with building a siege engine for use in their ongoing war Bontview. The adventure begins in the with you and your squad being sent on assignment to collect tolls on the Kaitech River trade route, to accrue funds for the siege engine.
+In this adventure, you play as a member of the Guard of the Greenwood, a mercenary company in southern Ranos. The company has been tasked by the city state of Davenhold with building a siege engine for use in their ongoing war with Bontview. The adventure begins with you and your squad being sent on assignment to collect tolls on the Kaitech River trade route, to accrue funds for the siege engine.
 
 # The Guard of the Greenwood - Mercenaries of Opportunity
 
