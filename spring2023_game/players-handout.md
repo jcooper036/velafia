@@ -30,7 +30,7 @@ To most in the rest of the region, the guard are seen as somewhere between extor
 
 ### Meramin Strongglide, Company High Commander
 
-![Meramin Strongglide](images/Meramin_Strongglide.PNG)
+![Meramin Strongglide](images/Meramin_Strongglide.png)
 
 The third company commander, Meramin Strongglide is a halfling from the nations of Eastern Elaria. In her youth, she longed to travel to the lands she had heard of to the west, and to become a sword master fighting the in the epic continent-wide conflicts she had heard of. When she came of age, she traveled Western Elaria looking for teachers and mentors. As many did, she hurried to Ranos at the outset of the Six Cities War. She served in the auxillary of Bontview for some time, before joining the Guard as a captain in 2685. She quickly became the protege of Halmin Ruion, and was promoted to Commander when he accepted the role of High Commander after the death of Commander Ashford at the Battle of Cantara Harbor. When Commander Ruion left the Guard in 2701, he named Meramin as his sucessor.
 
@@ -38,7 +38,7 @@ Meramin has acquitted herself as a competent leader over her tenure with the Gua
 
 ### Sylsandoral, Arch Magos
 
-![Sylsandoral](images/Sylsandoral.PNG)
+![Sylsandoral](images/Sylsandoral.png)
 
 Sylsandoral is a high elf, likely older than the tomes referenced by the tomes in the mages tower of Bayguard. Enigmatic, recluse, and distant, he spends most of his days in intense study of the artifacts and relics uncovered by the Guard in Grandir Forest and beyond. From the inception of the Guard his motivations have been unclear. Sylsandoral was found by Reg and Ashford when they located the mythical Greenwood Caves - Sylsandoral was already living there. Though he never seemed to show interest in the Six Cities War or the events of the surrounding region, he used his magic to feed and shelter the refugees and early members of the company. When ranging efforts began to uncover more artifacts in the region, he began to provide council to the companies leaders on their nature and where more could be located. In time, he also seemed to take interest in mentoring young mages that joined with the company.
 
@@ -46,7 +46,7 @@ In recent years, the mage core of the company has faired even worse in numbers t
 
 ### Boval Reg, Chief Engineer
 
-![Boval Reg](images/Boval_Reg.PNG)
+![Boval Reg](images/Boval_Reg.png)
 
 Though human at first glance, Boval is an Asamar. As all Asamar, his origin is unknown even to him. Boval awoke in Western Elaria in 2835, and took up residence in Pherasus in northern Ranos under the service of Balen Ashford, Denton Ashford's father. Denton came of age as Boval was learning his place in the world, and the two grew close. When Pherasus was sacked at the beginning of the Six Cities War and it's nobles scattered into exile, Boval accompanied Denton as he searched for a new home for the Pherasus refuges.
 
@@ -56,7 +56,7 @@ For Boval, the existence of the company has taken on a meaning of its own. It is
 
 # The setting
 
-![Ranos](images/Ranos.PNG)
+![Ranos](images/Ranos.png)
 
 ## The region
 
@@ -66,7 +66,7 @@ There are a few cultural tenants that pervade the region. Ranosians are not shy 
 
 ## Grandir Forest
 
-![Grandir Forest](images/grandir_forest.PNG)
+![Grandir Forest](images/grandir_forest.png)
 
 The Grandir Forest, also known as Greenwood, is a vast forest that straddles Ranos and Valanar. Though villages and towns dot the outer edge of the forest, the inner forest is dense and impassible to most average folk. It runs the entire length from the Oswestry Crags in the east to the Bay of Arnlams in het west, creating a natural barrier between the two regions. The forest is known to contain many old ruins, both of the Nortund Empire and empires older than that. Enterprising explorers delve into the forest, seeking rare magical treasures in the form of artifacts, plants, and magical wildlife.
 
@@ -74,13 +74,13 @@ The Greenwood Caves, in the northern forest, are the hideout for the Guard of th
 
 ## Davenhold
 
-![Davenhold](images/davenhold.PNG)
+![Davenhold](images/davenhold.png)
 
 As one of the victors in the Six Cities War, Davenhold has been a city on the rise for the last 15 years. It is a city that is known for it's shrewd political elite, and ambitious gentry. Davenhold is an oligarchy, and a nepotic one at that. Governance of the cities most important functions are, and have been for some time, clustered in the hands of a few families. In recent years, under the leadership of the Mersman family, Davenhold has been consolidating power in the region. By marriage and treaties, they hold more direct and indirect influence than any city of Ranos has had for decades. Of the most recent months, they have been at ods with their old ally, Bontview, in a conflict that has boiled over to open hostilities.
 
 ## Bontview
 
-![Bontview](images/bontview.PNG)
+![Bontview](images/bontview.png)
 
 Bontview has always made an odd pair with Davenhold as the cities that control the trade of the Kaitech River. Whereas Davenhold has spent many of the last 15 years learning to play a shrewd political game, Bontview has been focused on progress at all costs. Before the Six Cities War, Bontview was a center of learning and progress. From the many guilds to the university, many scholars, inventors, magi, priests, and artists flocked to Bontview to study. At the outset of the Six Cities War, it was unclear what allies Bontview intended to make, or if it intended to participate at all. It's alliance with Davenhold was somewhat unexpected, but it made it clear that Davenhold's armies would be supported by the many weapons and magics developed by the great minds of Bontview. Some attribute this to setting the war on an all but inevitable path, one in which the Kaitech cities were certain to come out ahead.
 
@@ -88,7 +88,7 @@ In the years since the war, Bontview has largely withdrawn from the politics of 
 
 ## The Davenhold - Bontview conflict
 
-![The Davenhold - Bontview conflict](images/conflict.PNG)
+![The Davenhold - Bontview conflict](images/conflict.png)
 
 In order to lock it's grip on southern Ranos, Davenhold needs to acquire Bontview (be it politically, militarily, or otherwise). Because Bontview has been politically withdrawn for the past several years, Davenhold felt that their alliance as frayed to a meaningless end. In 2705, Davenhold ended the alliance with Bontview. Bontview gave no response to Davenhold or anyone else. After a series of increasingly barbed rhetoric around Bontview to the other cities, Davenhold officially denounced Bontview's scouring of the Greenwood for relics and artifacts (as this is supposed to be neutral territory between them). Again, Bontview gave no reply. In fall 2708, Davenhold affirmed that they would defend the Greenwood in armed conflict, and began to assemble their army. As strange as a the lack of response from Bontview may seem, it is also clear that these are thinly veiled reasons given by Davenhold to fuel the cities own ambition for regional dominance. These are all details that a neutral observer from the region would understand, but your character may have different interpretations of these events based on where they are from, their previous or current allegiances, and their general intelligence.
 
@@ -96,7 +96,7 @@ The current state of the conflict that Davenhold has positioned it's army outsid
 
 ## The Brayherd
 
-![The Brayherd](images/brayherd.PNG)
+![The Brayherd](images/brayherd.png)
 
 Brayherds are a danger not unknown to Ranos. North of Ranos in the forests of the norther wastes live many terrifying monsters, not least of which are the Beastmen. The product of a centuries old experiment gone wrong, the Beastmen clans sometimes form into large migratory tribes, which seek to murder and rampage over the land to appease their sadistic gods. When these tribes slip south past the Nar'Togtgh orcs, they are called Brayherds, a name given by the animalistic cries and calls that proceed their attacks on ill fated targets.
 
